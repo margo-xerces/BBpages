@@ -53,7 +53,7 @@
   <div class="sub-dvdr"></div>
  <!-- Button/badge for Bumble Bee Watch -->
    <!-- BBW Button w. Bootstrap -->
-  <a class="btn btn-success btn-large" href="http://www.bumblebeewatch.org" style="width: 160px; height: 50px; text-decoration: none; margin: 0px 10%;">
+  <a class="btn btn-primary btn-large" href="http://www.bumblebeewatch.org" style="width: 160px; height: 50px; text-decoration: none; margin: 0px 10%;">
     <h4 class="btnlabel">Join Bumble Bee Watch</h4>
   </a>
 
